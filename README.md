@@ -25,12 +25,14 @@ Tenho experiência com:
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Back-end
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ### Front-end
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,6 +40,7 @@ Tenho experiência com:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### DevOps e Infraestrutura
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,48 +48,10 @@ Tenho experiência com:
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Bancos de Dados
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge&logo=firebird&logoColor=white)
-
----
-
-## 📌 Projetos em destaque
-
-### Sistema em Kubernetes
-
-Projeto envolvendo containerização com **Docker**, balanceamento com **Nginx**, deploy em **Kubernetes/Rancher** e configuração de persistência.
-
-### Migração de Infraestrutura
-
-Migração de ambiente legado em **XenServer** para estrutura baseada em **JBoss/WildFly** em **Proxmox**, com análise de impacto e ajustes de ambiente.
-
-### Documentação Técnica
-
-Criação e manutenção de documentação técnica, mapeamento de infraestrutura, rotinas operacionais e runbooks utilizando **Confluence**, **Jira** e **GitLab**.
-
----
-
-## 🎓 Formação
-
-- **Engenharia de Software** — FACINT  
-  Bacharelado, EAD  
-  `jul/2025 – em curso`
-
-- **Gestão da Tecnologia da Informação** — UniCEUB  
-  Tecnólogo  
-  `jan/2018 – nov/2021`
-
----
-
-## 📚 Certificações e Cursos
-
-- Java Developer — 2024
-- Angular 2+ — 2024
-- RabbitMQ & Spring — 2023
-- Frontend Fundamentos — 2022
-- Web Designer — 2022
-- Gerenciamento de Infraestrutura de TI — 2022
 
 ---
 
