@@ -51,42 +51,6 @@ Tenho experiência com:
 
 ---
 
-## 💼 Experiência
-
-### Desenvolvedor de Software  
-**Infinity Administração e Tecnologia**  
-`mar/2023 – presente`
-
-- Desenvolvimento de interfaces com **Angular 17** e **TypeScript**
-- Criação de componentes, rotas, guards e formulários reativos
-- Desenvolvimento de layouts responsivos com **HTML5**, **CSS3**, Flexbox e Grid
-- Integração com APIs REST usando **HttpClient**
-- Tratamento de estados de tela como loading, empty e error
-- Versionamento com Git, branches, merge requests e code review
-- Criação e manutenção de APIs REST com **Java 17**, **Spring Boot**, **JPA/Hibernate**
-- Integração com bancos **PostgreSQL** e **MySQL**
-- Estruturação de pipelines com **GitLab CI/CD**
-- Deploy com **Docker**, **Kubernetes/Rancher** e **Nginx**
-
-#### Resultados alcançados
-
-- Redução do tempo de build/deploy de **7min44s para 1min26s** por release
-- Redução de erros de release em aproximadamente **35%**
-
----
-
-### Cabo — TI/Operações  
-**Exército Brasileiro**  
-`mar/2015 – mar/2023`
-
-- Suporte técnico a ambientes Windows, redes e impressoras
-- Manutenção de sites com **HTML/CSS**
-- Automação de relatórios e quadros Kanban
-- Organização de processos internos
-- Liderança de pequenas equipes operacionais
-
----
-
 ## 📌 Projetos em destaque
 
 ### Sistema em Kubernetes
